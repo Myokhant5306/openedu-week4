@@ -11,15 +11,15 @@ const server = http.createServer(async(req,res)=>{
               'Content-Type':'application/json',
               ...CORS,
           })
-          let data = '';
-          await req.on('data', function(chunk){
-            data += chunk;
+          let abc = '';
+          await req.on('abc', function(chunk){
+            abc += chunk;
             }).on('end', () => {
           })
           res.write(JSON.stringify({
             "message":"myokhant",
             "x-result":headers,
-            "x-body":data
+            "x-body":abc
             }
             ))
       }
