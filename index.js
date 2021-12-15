@@ -35,6 +35,6 @@ const s = require("http").Server((req, res) => {
       return res.end("\n");
       break;
   }
-  // res.end('\n');
+  res.end('\n');
 });
 s.listen(4321);
