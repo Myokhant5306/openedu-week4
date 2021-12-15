@@ -1,20 +1,14 @@
 {
   "name": "openedu-week4",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": "10.19.0"
+  },
   "main": "index.js",
+  "repository": "https://github.com/Myokhant5306/openedu-week4.git",
+  "author": "myokhant",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Myokhant5306/openedu-week4.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Myokhant5306/openedu-week4/issues"
-  },
-  "homepage": "https://github.com/Myokhant5306/openedu-week4#readme"
+    "start": "node index.js"
+  }
 }
