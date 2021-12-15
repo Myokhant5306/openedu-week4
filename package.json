@@ -1,5 +1,5 @@
 {
-  "name": "week4",
+  "name": "openedu-week4",
   "version": "1.0.0",
   "description": "",
   "type":"module",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PyaePhyoAung-web/week4.git"
+    "url": "git+https://github.com//Myokhant5306/openedu-week4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PyaePhyoAung-web/week4/issues"
+    "url": "https://github.com//Myokhant5306/openedu-week4/issues"
   },
-  "homepage": "https://github.com/PyaePhyoAung-web/week4#readme"
+  "homepage": "https://github.com//Myokhant5306/openedu-week4#readme"
 }
